@@ -7,7 +7,7 @@
 * **Multi-Provider Authentication**: รองรับการเข้าสู่ระบบที่มีความปลอดภัยผ่าน Firebase Auth ทั้งรูปแบบ Email/Password, Google Sign-In และ GitHub
 * **Real-time Global Chat**: ระบบห้องแชทส่วนกลางที่ซิงค์ข้อมูลข้อความแบบ Real-time ทันทีที่มีการโต้ตอบผ่าน Cloud Firestore
 * **Profile Image Upload**: รองรับการเลือกรูปภาพจากแกลเลอรี่หรือกล้องถ่ายรูปผ่าน Image Picker และอัปโหลดเก็บรูปโปรไฟล์ไว้อย่างปลอดภัยบน Firebase Storage
-* **Executive UI & Stealth Icon**: ออกแบบหน้าจอด้วยโทนสี Tactical Matcha Green ตัดกับสัญลักษณ์ Terminal พร้อมระบบ "ซ่อนรูป" (Front Company) โดยใช้ `flutter_launcher_icons` สร้างไอคอนแอปหน้าจอให้ดูเหมือนแอป FAQ ทั่วไป เพื่อปกปิดตัวตนของแอปแชทที่แท้จริง
+* **Executive UI & Stealth Icon**: ออกแบบหน้าจอด้วยโทนสี Tactical Matcha Green ใช้ `flutter_launcher_icons` สร้างไอคอนแอปหน้าจอให้ดูเหมือนแอป FAQ ทั่วไป 
 * **Dynamic Chat Bubbles**: ระบบแสดงผลกล่องข้อความที่แยกฝั่งผู้ส่ง (ตนเอง) และผู้รับ (ผู้อื่น) อย่างชัดเจน พร้อมแสดงรูปโปรไฟล์และชื่อผู้ใช้งานกำกับทุกข้อความ
 
 ## Known Issues & Solutions (ปัญหาที่พบและวิธีการแก้ไข)
@@ -38,10 +38,10 @@
 
 
 
-## ผลลัพธ์การทำงานของแอป
+## ผลลัพธ์ การทำงานของแอป
 
 
-## โครงสร้าง
+## โครงสร้าง ของเเอป
 
 <p align="center">
 <img width="389" height="593" alt="โครงสร้าง" src="https://github.com/user-attachments/assets/b2804c57-63b8-4754-997a-01e2e9d3e96c" />
@@ -67,7 +67,7 @@
 
 ---
 
-## login Github
+## login Github 
 
 <p align="center">
 <img width="662" height="1437" alt="หน้า login Github" src="https://github.com/user-attachments/assets/50696f40-11e5-4e72-a0e6-8d9350dfda16" />
@@ -76,7 +76,7 @@
 ---
 
 
-## Create new account
+## Create new account 
 
 <p align="center">
 <img width="666" height="1434" alt="หน้า Create new account" src="https://github.com/user-attachments/assets/dc358946-3af7-45ef-9ad5-67cec688e99d" />
@@ -85,7 +85,7 @@
 
 ---
 
-## Create new account add image
+## Create new account add image 
 
 <p align="center">
 <img width="671" height="1440" alt="หน้า Create new account add image" src="https://github.com/user-attachments/assets/98c1faee-0e8b-4c87-b5a1-0b979c29cfd2" />
